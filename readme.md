@@ -83,5 +83,5 @@ php artisan make:model Name -m
 - To see all route lists<br/>
 php artisan route:list
 
-- To create symlink to store files
+- To create symlink to store files<br/>
 php artisan storage:link
